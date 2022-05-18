@@ -243,3 +243,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [definitelytyped]: https://definitelytyped.org/
 [angular cli]: https://cli.angular.io/
 "# PFA2022" 
+"# PFA2022" 
